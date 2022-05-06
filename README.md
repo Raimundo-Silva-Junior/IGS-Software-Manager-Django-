@@ -3,8 +3,8 @@
  Hi! This project was created as a test for IGS International Solutions
  
  The goal of this django application is:
- *A django admin panel to manage employee's data
- *A Django API to list, add and remove employees
+ * A django admin panel to manage employee's data
+ * A Django API to list, add and remove employees
 
  ## Install dependences
 
