@@ -10,6 +10,12 @@
 
  In order to run the application it's required Python 3.9, django and djangorestframework
  
+ ## How the project is organized
+ 
+ * The main folder as the name sugests is the folder contaning the required files to start the Django project 
+ * The employee_manager is the api folder it has all the data to make it run.
+ * The readme_img is the api folder with images used in this README.md.
+ 
  ## Start application
 
  One can start the aplication by running the manage.py file
